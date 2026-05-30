@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routersncrypt",
+        "uuid": 337305,
+        "checksum": "5wuvth"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
